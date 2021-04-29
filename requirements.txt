@@ -14,7 +14,7 @@ packaging==20.8
 pluggy==0.13.1
 py==1.10.0
 pyparsing==2.4.7
-pyTelegramBotAPI==3.7.4
+pyTelegramBotAPI==3.7.7
 python-dotenv==0.15.0
 requests==2.25.1
 schedule==0.6.0
