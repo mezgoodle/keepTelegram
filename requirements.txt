@@ -15,7 +15,7 @@ pluggy==0.13.1
 py==1.10.0
 pyparsing==2.4.7
 pyTelegramBotAPI==3.7.4
-python-dotenv==0.17.0
+python-dotenv==0.17.1
 requests==2.25.1
 schedule==0.6.0
 toml==0.10.2
