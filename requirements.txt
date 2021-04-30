@@ -17,7 +17,7 @@ pyparsing==2.4.7
 pyTelegramBotAPI==3.7.4
 python-dotenv==0.17.0
 requests==2.25.1
-schedule==0.6.0
+schedule==1.1.0
 toml==0.10.2
 urllib3==1.26.4
 Werkzeug==1.0.1
